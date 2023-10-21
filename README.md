@@ -1,2 +1,8 @@
 # Module-8
 Array List
+Summarize the project and what problem it was solving: I think that my main problem was that we needed to figure out how to use pointers and more it was pretty hard to learn but eventually I learned it and I was able to create the code necessary to complete the code left.
+What did you do particularly well: I would say that in order to complete the assignment I needed to manage the functions. So when we create the methods its something I think I handled very well.
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? I think that I could've definitely had better comments. The reason I say that is because when I went to go code I only commented the bare minimum because I wanted to keep coding in order to get it done. Then I should've gone back after and become a lot better.
+Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? The code I feel the most proud of would definitely be the main one I created I think it was really efficient and it took a while to think out and create so that it would work correctly.
+What skills from this project will be particularly transferable to other projects or coursework?  I think pretty much everything I learned to make code a a very specific level definitely will help me complete any other assignments. 
+How did you make this program maintainable, readable, and adaptable? The code I created as I mentioned could use a lot more comments the reason I say this is because in a professional workspace is important for coding practice.
